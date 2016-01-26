@@ -1,0 +1,5 @@
+﻿### NETSH Commands ###
+
+netsh interface ip add dns "Local Area Connection" addr=8.8.8.8
+
+netsh interface ip delete dns "Local Area Connection" addr=8.8.8.8
