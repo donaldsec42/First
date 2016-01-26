@@ -1,0 +1,22 @@
+﻿Tasks for the week of Jan 18th - Jan 22nd.
+
+Checking email.
+Read the January Microsoft Security Bulletins.
+Read the NC Cyber ISAC Security Notifications.
+Worked Remedy tickets.
+Worked NURs.
+Monitor ePO.
+Monitor RightFAX.
+Monitor TFS.
+
+On-call this week.
+Off, MLK
+Off, Fri Snow.
+
+Helped with the EADS exemption.
+
+Helped Mike with the RightFAX web API.
+
+Got and set up new monitors.
+
+Looked at the VIP online. 

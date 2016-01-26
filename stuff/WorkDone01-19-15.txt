@@ -1,0 +1,31 @@
+Tasks for the week of Jan. 19 - 23
+
+Monday off for MLK day.
+
+Tuesday
+	Worked on Remedy tickets
+		INC000002860318
+	Automated build error in Team Foundation Server.
+		error MSB4062:
+		Returned requested .net information to Will D.
+	Reporting error in Team Foundation Server.
+		Cannot impersonate user for data source 'TfsReportDS'.
+	Reviewed the NUR report from Jan and made edits to attribute15 in EADS.
+	Signed the BLS Agent Agreement for Jan.
+	
+Wednesday
+	Worked on Remedy tickets
+		INC000002862220
+	Helped David troubleshoot the password problems from the change in password policy
+	Ran Windows updates on the TFS server and build machines.
+	
+Thursday
+	Worked on Remedy tickets
+		INC000002863848
+	Discussions with Doug about PXE boot machines.
+	Fixed the reporting error from Tuesday.
+	
+Friday
+	TFS Administration
+		Added Will D. as a User to the Tax build server to help with troubleshooting.
+		Working on solving the build errors.
