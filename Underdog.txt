@@ -1,4 +1,0 @@
-﻿This is Underdog.
-He helped me find a problem with Programmer's Notepad.
-PN will not create a new file from the command line like Notepad will.
-example: pn Underdog.txt results in a file not found error, however notepad Underdog.txt creates a blank text file.

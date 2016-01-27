@@ -1,5 +1,0 @@
-﻿### Splunk Universal Forwarder ###
-
-Executable: splunkd
-Service: SplunkUniversalForwarder
-
